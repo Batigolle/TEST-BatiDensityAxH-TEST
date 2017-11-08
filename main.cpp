@@ -1,3 +1,4 @@
+/* SVILUPPO 2*/
 /*
  Setup your scale and start the sketch WITHOUT a weight on the scale
  Once readings are displayed place the weight on the scale
